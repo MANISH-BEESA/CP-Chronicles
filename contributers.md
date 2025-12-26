@@ -1,6 +1,4 @@
-| Name| Github-ID  | College name |  
-
-
+| Name| Github-ID | College name |
 |:-------------|:------------|:----------------|
 | Pradip Maity | @codeboy-pro | Haldia Institute Of Technology |
 
@@ -10,13 +8,22 @@
 
 | Mannat Jain | mannatjain11465-netizen | IIIT Allahabad|
 
+|Prashant kumar dwivedi| dwivediprashant | Lnct Bhopal |
+
 |Arnav Singh | arnavsingh010 |IIIT-A |
+
+|Mohan Kumar| aricthecoder | IIIT Allahabad |
 
 |Vishva Modh|ViMo018|IIIT Allahabad|
 
 |Varad Singhal | VaradSinghal | SRMIST | 
+
+|Hardik Singh Rana|hardik-rana02|IIIT Allahabad|
+
 <!-- ADD ABOVE THIS-->
 <!--example |Korvac | Betty |Reyansh College| IIT2024067|>
+
+
 
 
 
