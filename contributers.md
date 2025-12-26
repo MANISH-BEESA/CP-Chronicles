@@ -1,4 +1,3 @@
-
 | Name                   | GitHub ID               | College Name                                                     |
 |------------------------|-------------------------|------------------------------------------------------------------|
 | Pradip Maity           | @codeboy-pro            | Haldia Institute Of Technology                                   |
