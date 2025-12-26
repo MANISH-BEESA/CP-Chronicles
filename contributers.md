@@ -1,3 +1,4 @@
+
 | Name                   | GitHub ID               | College Name                                                     |
 |------------------------|-------------------------|------------------------------------------------------------------|
 | Pradip Maity           | @codeboy-pro            | Haldia Institute Of Technology                                   |
@@ -36,9 +37,14 @@
 | Siddhant Shekhar       | sshekhar563             | United University                                                |
 | Ayush Saha             | verifiedHuman18         | IIIT Allahabad                                                   |  
 | Khushi Shorey          | khushishorey            | IIIT Allahabad |
+| Nitin Kumar          | Nitinkr03          | IIIT Allahabad 
 | Manisha katariya       | chanchukatariya5        | IIIT Allahabad                                                   |
+| Abhigyan Tiwari       | Abh-igyan        | NIT Silchar                                                   |
+| Harsh Verma            | harshverma14            | IIIT Allahabad                                                   |    
+| Ayush Mishra           | ayush-mg                | IIIT Allahabad                                                   |
+| Ronak Goyal            | ronakgoyal1             | IIIT Allahabad                                                   |
 | Sayed Al Amaan Zaidi           | amaan1114           | Rishihood University                                   |
 | Somesh Pawan Kamad      | Entropy-rgb         | IIIT Hyderabad                                                |
-
+| Roshan Gupta           | roshangupta4804-hue        | IIIT Allahabad  
 <!-- ADD ABOVE THIS -->
 <!-- example | Korvac | Betty | Reyansh College | -->
