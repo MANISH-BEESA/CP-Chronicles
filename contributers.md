@@ -1,4 +1,4 @@
-| Name| Github-ID  | College name |  
+| Name| Github-ID | College name |
 
 
 |:-------------|:------------|:----------------|
@@ -10,11 +10,15 @@
 
 | Mannat Jain | mannatjain11465-netizen | IIIT Allahabad|
 
+|Prashant kumar dwivedi| dwivediprashant | Lnct Bhopal |
+
 |Arnav Singh | arnavsingh010 |IIIT-A |
 
 |Vishva Modh|ViMo018|IIIT Allahabad|
 <!-- ADD ABOVE THIS-->
 <!--example |Korvac | Betty |Reyansh College| IIT2024067|>
+=======
+
 
 
 
