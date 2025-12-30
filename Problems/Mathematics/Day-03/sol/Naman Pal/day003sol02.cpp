@@ -1,4 +1,4 @@
-Submission Link: https://codeforces.com/contest/343/submission/355828800
+// Submission Link: https://codeforces.com/contest/343/submission/355828800
 
 /*
 Problem: Find the mininmum number of 1 ohm resistance needed to make equivalent resistance a/b
