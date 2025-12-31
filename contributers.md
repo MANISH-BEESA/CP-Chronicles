@@ -77,5 +77,8 @@
 |Aditi Deshmukh         | InsanelySlowBurn          | IIIT Allahabad     
 | Amogh S. | MogaS811 | IIIT Allahabad |
 |Shambhu Chadana | Zarxeon | IIIT ALLAHABAD
+| Deepali Kumari | deepali-kumari-iitp | IIT Patna |
+| Chithra R | Chithra582 | CIT |
+
 <!-- ADD ABOVE THIS -->
 <!-- example | Korvac | Betty | Reyansh College | -->
