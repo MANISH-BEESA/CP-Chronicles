@@ -4,11 +4,15 @@ Submission link - https://codeforces.com/contest/769/submission/357350706
 TC - O(N*M+K)
 SC - O(N*M+K)
 
-Approach :
-First, use BFS to find the minimum distance from every cell back to the starting cell.
-A cycle is possible only if k is even and the start cell can move to at least one neighbor.
-Now build the path step by step for k moves.
-At each step, try moves in alphabetical order (D, L, R, U) and choose a move only if it’s still possible to come back to the start in the remaining steps.
+Approach:
+If k is odd, we can’t make exactly k moves, so the answer is IMPOSSIBLE.
+Read the grid and find the starting cell X.
+Use BFS from X to store the shortest distance to every cell.
+If there is no free adjacent cell from X, then movement is not possible at all → IMPOSSIBLE.
+Now construct the answer step by step.
+For each move, try directions in the order D, L, R, U and pick the first valid move such that we can still finish the remaining steps.
+If at any step no such move exists, print IMPOSSIBLE. Otherwise, print the final path.
+
 */
 
 
